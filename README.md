@@ -4,7 +4,6 @@ John Baskerville
 
 Created my first webpage marking up some plain text as a HTML5 page.
 
-[version 2](https://github.com/LauraFoy/john_baskerville/blob/gh-pages/baskerville-one.html)
 
 
 
