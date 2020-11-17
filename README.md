@@ -19,3 +19,4 @@ Adding new Baskerville file and applied my first CSS styling.
 
 History of Type
 ===============
+[Version 1](https://laurafoy.github.io/john_baskerville/historyoftype.html)
