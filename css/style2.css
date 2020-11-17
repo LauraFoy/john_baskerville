@@ -13,7 +13,8 @@ body {
   max-width: 760px;
   margin: auto;
   background-color: #FFDCDC;
-  color: #333
+  color: #333;
+  font-family: 'Lato', sans-serif;
 }
 
 /*------- TYPOGRAPHY ------*/
@@ -21,6 +22,7 @@ h1, h2 {
   font-weight: normal;
   color: #8f0040;
   text-align: center;
+  font-family: 'Libre Baskerville', serif;
 }
 
 p, blockquote {
@@ -28,28 +30,38 @@ p, blockquote {
   line-height: 1.4;
 }
 
+P {
+  color: black;
+}
+
 h1 {
   font-size: 3.827em;
-  margin-top: 1.5em;
-  margin-bottom: 0.1em;
+  margin-top: 1.8em;
+  margin-bottom: 0.2em;
+}
+
+h1, h2, nav, blockquote, footer {
+  font-family: 'Libre Baskerville', serif;
 }
 
 h2 {
   font-style: normal;
-  font-size: 2em;
+  font-size: 1.6em;
   margin: 2em 0 1em 0;
 }
 
 blockquote {
   font-size: 1.2em;
-  color: black;
+  color: #8f0040;
   hanging-punctuation: first;
   text-indent: -0.44em;
+  font-family: 'Libre Baskerville', serif;
 }
 
 blockquote cite {
   font-size: .80em;
   color: #333;
+  font-family: 'Lato', sans-serif;
 }
 
 header h2 {
@@ -59,7 +71,22 @@ header h2 {
 }
 
 header p {
-  font-size: 1.3em;
+  font-size: 1.09em;
+  font-family: 'Libre Baskerville', serif;
+}
+
+hr {
+  margin: 3em 0;
+  height: 1px;
+  background: #8f0040;
+  color: #8f0040
+  border: 0 none;
+}
+
+.leader {
+  text-transform: uppercase;
+  color: #8f0040;
+
 }
 
 /*----STYLING LINKS ---*/
@@ -67,6 +94,11 @@ a{
   color: #8f0040;
   text-decoration: none;
 }
+
+a:visited {
+  color: #8f0040;
+}
+
 a:hover {
   color:#333;
   border-bottom: 1px dotted;
