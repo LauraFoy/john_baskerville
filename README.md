@@ -12,6 +12,10 @@ Adding new Baskerville file and applied my first CSS styling.
 *17 November 2020*
 Adding my first proper web page marking up some plain text with HTML5.
 
+[Version 4](https://laurafoy.github.io/john_baskerville/baskerville4.html)
+*23 November 2020*
+Added table and images
+
 
 
 
