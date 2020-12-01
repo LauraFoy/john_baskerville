@@ -10,7 +10,7 @@ Adding new Baskerville file and applied my first CSS styling.
 
 [Version 3](https://laurafoy.github.io/john_baskerville/baskerville-3.html)
 *17 November 2020*
-Marking up some plain text with HTML5.
+Adding my first proper web page marking up some plain text with HTML5.
 
 
 
