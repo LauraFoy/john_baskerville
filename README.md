@@ -24,3 +24,5 @@ History of Type
 [Version 1](https://laurafoy.github.io/john_baskerville/historyoftype.html)
 
 [Version 2](https://laurafoy.github.io/john_baskerville/historyoftype2.html)
+
+[Version 3](https://laurafoy.github.io/john_baskerville/historyoftype3.html)
