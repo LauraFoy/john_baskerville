@@ -13,6 +13,7 @@ Adding new Baskerville file and applied my first CSS styling.
 Adding my first proper web page marking up some plain text with HTML5.
 
 [Version 4](https://laurafoy.github.io/john_baskerville/baskerville4.html)
+
 Added table and images
 
 
