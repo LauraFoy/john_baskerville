@@ -1,0 +1,127 @@
+/* ---UNIVERSAL STYLING--*/
+
+ body{
+  max-width: 600px;
+  margin: auto;
+  }
+
+/*---TYPOGRAPHY---*/
+
+  h1, h2, h3, blockquote, .b {
+    color: #27307f;
+  }
+
+  h1, h2, h3 {
+    margin: 0;
+    font-weight: normal;
+  }
+
+  p {
+    line-height:   1.6em;
+  }
+
+  h1 {
+    font-size: 5.063em;
+  }
+
+  h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-size: 2.25em;
+    padding-bottom: 30px;
+    margin: -.5em 0 0 .5em
+  }
+
+  h3 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+  }
+
+  blockquote {
+    margin: 0;
+    font-weight: normal;
+    font-size: 1.5em;
+    font-style: italic;
+    padding: 1.5em 0 0 0;
+  }
+
+  blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.43em;
+  }
+
+  blockquote cite {
+    color: #999; font-size: 0.667em;
+  }
+
+  .p1 {
+    font-size: 1.25em;
+  }
+
+  .b {
+		float: left;
+		font-size: 4.7em;
+		line-height: 0.5em;
+    margin-right: 0px;
+  }
+
+/*-----VERSION ONE--*/
+
+  .v1 {
+    padding-top: 50px;
+    font-family: 'Libre Baskerville', serif;
+  }
+
+  .v1 .p1 {padding-bottom: 1em; }
+  .v1 blockquote {line-height: 1.4}
+  .v1 h2 {font-family: 'Libre Baskerville', serif;}
+
+  /*-----VERSION TWO----*/
+
+  .v2 {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+
+  .caps {
+    text-transform: uppercase;
+  }
+
+  .v2 cite {
+    font-style: normal;
+    text-transform: uppercase;
+  }
+
+  .version2 p+p {
+    margin-bottom: -1em;
+  }
+
+  .version2 p+p+p {
+   text-indent:1.5em;
+  }
+
+  /*--------VERSION THREE------*/
+
+  .version3 {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .version3 h1, h2, h3, blockquote {
+    font-family: 'IBM Plex Serif', serif;
+  }
+
+  /*.version2 h2  {font-family: 'Open Sans', sans-serif;}
+  section blockquote {font-family: 'Libre Baskerville', serif;}
+  .version2 h3 {font-family: 'Open Sans', sans-serif;}
+
+
+
+  hr {
+      margin: 100px 0;
+                                      height: 1px;
+                                      background-color:rgb(13, 121, 110);
+                                      color:rgb(13, 121, 110);
+                                      border: 0 none;
+                                      }
+
+                                      .version2 blockquote {font-family: 'Open Sans', sans-serif;}

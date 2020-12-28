@@ -12,22 +12,28 @@ body {
   width: 80%;
   max-width: 760px;
   margin: auto;
-  background-color: ivory;
-  color: #333
-  font-family: 'Roboto', sans-serif;
+  background-color: #FFDCDC;
+  color: #333;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 /*------- TYPOGRAPHY ------*/
 h1, h2 {
   font-weight: normal;
-  color: #519BD0;
+  color: #8f0040;
   text-align: center;
-  font-family: 'Vollkorn', serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 p, blockquote {
   margin-bottom: 1.5em;
   line-height: 1.4;
+}
+
+P {
+  color: black;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -36,22 +42,28 @@ h1 {
   margin-bottom: 0.2em;
 }
 
+h1, h2, nav, blockquote, footer {
+  font-family: 'Libre Baskerville', serif;
+}
+
 h2 {
   font-style: normal;
-  font-size: 1.8em;
+  font-size: 1.6em;
   margin: 2em 0 1em 0;
 }
 
 blockquote {
   font-size: 1.2em;
-  color: black;
+  color: #8f0040;
   hanging-punctuation: first;
   text-indent: -0.44em;
+  font-family: 'Libre Baskerville', serif;
 }
 
 blockquote cite {
   font-size: .80em;
   color: #333;
+  font-family: 'Lato', sans-serif;
 }
 
 header h2 {
@@ -61,18 +73,36 @@ header h2 {
 }
 
 header p {
-  font-size: 1.3em;
-  font-family: 'Vollkorn', serif;
+  font-size: 1.09em;
+  font-family: 'Libre Baskerville', serif;
+}
+
+hr {
+  margin: 3em 0;
+  height: 1px;
+  background: #8f0040;
+  color: #8f0040
+  border: 0 none;
+}
+
+.leader {
+  text-transform: uppercase;
+  color: #8f0040;
+
 }
 
 /*----STYLING LINKS ---*/
 a{
-  color: #519BD0;
+  color: #8f0040;
   text-decoration: none;
 }
 
+a:visited {
+  color: #8f0040;
+}
+
 a:hover {
-  color: #194C87;
+  color: #333;
   border-bottom: 1px dotted;
 }
 
@@ -83,15 +113,13 @@ nav {
   left: 0;
   margin: 0;
   width: 100%;
-  background-color: #519BD0;
+  background-color: #8f0040;
   padding: 1em 0;
   font-size: 0.75em;
-    font-family: 'Vollkorn', serif;
 }
 nav ul {
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 1px;
 }
 
 nav ul li {
@@ -101,15 +129,12 @@ nav ul li {
 }
 
 nav a {
-  color: ivory;
+  color:#FFDCDC;
 }
 
 nav a:hover {
-  border-bottom: none;
-  color: #E2F3FF;
-  transition: all 0.3s ease-in-out;
+  color: #FFEBEB;
 }
-
 
 /*----STYLING TABLE-----*/
 table {
@@ -127,11 +152,11 @@ caption {
 }
 
 th {
-  color: ivory;
+  color: #FFDCDC;
   text-transform: uppercase;
   font-weight: normal;
   text-align: left;
-  background: #519BD0
+  background: #8f0040
 }
 
 th, td {
@@ -139,24 +164,21 @@ th, td {
 }
 
 table, td {
-  background: #E2F3FF;
-  border: 3px solid #519BD0;
+  background: #FFEBEB;
+  border: 3px solid #FFDCDC;
 }
 
 /*-----IMAGES----*/
 img {
   display:block;
   margin: 4em 0;
-  padding-left: 15em;
-  max-width: 40%;
-  align: center;
+  padding: 0;
+  max-width: 100%;
 }
-
 
 /*--- FOOTER ----*/
 footer {
   text-align: center;
   font-size: 0.7em;
   padding: 5em 0 6em 0;
-  font-family: 'Vollkorn', serif;
 }
