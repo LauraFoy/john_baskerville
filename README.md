@@ -31,3 +31,5 @@ History of Type
 
 [Version 3](https://laurafoy.github.io/john_baskerville/historyoftype3.html)
 
+[Version 4](https://laurafoy.github.io/john_baskerville/historyoftype4.html)
+
