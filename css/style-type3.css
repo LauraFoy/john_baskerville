@@ -12,7 +12,7 @@ body {
   width: 80%;
   max-width: 760px;
   margin: auto;
-  background-color: ivory;
+  background-color: #FBFBF1;
   color: #333
   font-family: 'Roboto', sans-serif;
 }
@@ -101,7 +101,7 @@ nav ul li {
 }
 
 nav a {
-  color: ivory;
+  color: #FBFBF1;
 }
 
 nav a:hover {
@@ -127,7 +127,7 @@ caption {
 }
 
 th {
-  color: ivory;
+  color: #FBFBF1;
   text-transform: uppercase;
   font-weight: normal;
   text-align: left;
