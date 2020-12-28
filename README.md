@@ -17,7 +17,7 @@ Adding my first proper web page marking up some plain text with HTML5.
 Added table and images
 
 
-
+[css exersise](https://laurafoy.github.io/john_baskerville/cssexersise.html)
 
 
 
@@ -30,4 +30,6 @@ History of Type
 [Version 2](https://laurafoy.github.io/john_baskerville/historyoftype2.html)
 
 [Version 3](https://laurafoy.github.io/john_baskerville/historyoftype3.html)
+
+[Version 4](https://laurafoy.github.io/john_baskerville/historyoftype4.html)
 
