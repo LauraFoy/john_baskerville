@@ -17,7 +17,7 @@ Adding my first proper web page marking up some plain text with HTML5.
 Added table and images
 
 
-
+[Css Exersise](https://laurafoy.github.io/john_baskerville/cssexersise.html)
 
 
 
